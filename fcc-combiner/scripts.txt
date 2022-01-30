@@ -1,0 +1,1 @@
+cargo run images\nature.png images\fcc_glyph.png images\test.png
